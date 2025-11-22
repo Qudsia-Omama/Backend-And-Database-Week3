@@ -8,7 +8,7 @@ A full-stack authentication system with Node.js/Express backend and React fronte
 - **Task Assigned By:** Zero Gravity (Osama)
 - **Project Type:** Internship Assignment 
 - **Week 3:** Back-End & Database - Login and Signup Page With Authentication
-- 
+
 ## Features
 
 ###  Backend Requirements
